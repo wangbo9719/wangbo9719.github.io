@@ -7,7 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year Ph.D. student from the Department of Artificial Intelligence at Jilin University, supervised by Prof. Yi Chang. Now I am a visiting scholar at Michigan State University (MSU), under the supervision of Prof. Jiliang Tang.
-
-My research interests are natural language processing and trustworthy AI.
-
+I received my Ph.D. degree from the School of Artificial Intelligence (SAI), Jilin University in 2026. Before that, I began my graduate studies at SAI in 2019 and transitioned directly from the master’s program to the Ph.D. program in 2021. I obtained my bachelor’s degree in Software Engineering (Excellent Engineer Class) from Jilin University in 2019 (RANK: 1/30). During my doctoral studies, I worked as an exchange student at Hong Kong Baptist University under the supervision of Prof. Jing Ma, and as a visiting scholar at Michigan State University under the supervision of Prof. Jiliang Tang, each for one year.
